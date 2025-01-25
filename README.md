@@ -1,5 +1,9 @@
 # MLOps Cheatsheet
+ ChatGPT based fyi  
+ 
+<img width="1420" alt="Screenshot 2025-01-25 at 18 49 53" src="https://github.com/user-attachments/assets/19f11882-57ba-42d1-a2f8-fd069df39b95" />
 
+ 
 ## 🚀 MLOps Nedir?
 MLOps (Machine Learning Operations), makine öğrenimi modellerinin üretime alınması, yönetilmesi ve izlenmesi süreçlerini kapsayan bir disiplindir. Yazılım mühendisliği (DevOps) ve veri biliminin kesişim noktasında yer alır.
 
